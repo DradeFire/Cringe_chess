@@ -1,0 +1,4 @@
+﻿  My_chess_proj.cpp
+P:\VS_studing_projects\My_chess_proj\My_chess_proj\My_chess_proj.cpp(53,43): warning C4267: =: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+P:\VS_studing_projects\My_chess_proj\My_chess_proj\My_chess_proj.cpp(67,43): warning C4267: =: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+  My_chess_proj.vcxproj -> P:\VS_studing_projects\My_chess_proj\Debug\My_chess_proj.exe
